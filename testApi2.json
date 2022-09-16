@@ -1,0 +1,72 @@
+[
+	{
+		"Caba":[
+			{
+      			"nombre" : "Almagro",
+				"distancia":3
+    		},
+    		{
+				"nombre":"Balvanera",
+				"distancia":1				
+			},
+			{
+				"nombre":"Barracas",
+				"distancia":6		
+			},
+			{
+				"nombre":"Belgrano",
+				"distancia":10		
+			},
+			{
+				"nombre":"Boedo",
+				"distancia":5		
+			},
+			{
+				"nombre":"Caballito",
+				"distancia":6		
+			},
+			{
+				"nombre":"Boedo",
+				"distancia":5		
+			},
+			{
+				"nombre":"Chacarita",
+				"distancia":8		
+			}			
+		],
+		"Gba":[
+			{
+				"nombre":"Avellaneda",
+				"distancia":7
+			},
+			{
+				"nombre":"Lanus",
+				"distancia":11
+			},
+			{
+				"nombre":"La Matanza",
+				"distancia":17
+			},
+			{
+				"nombre":"Tres de Febrero",
+				"distancia":13
+			},
+			{
+				"nombre":"San Martin",
+				"distancia":14
+			},
+			{
+				"nombre":"San Vicente",
+				"distancia":16
+			}
+		],
+		"Precios":[
+			{
+				"Moto":500,
+				"Auto":800,
+				"Camioneta":1000
+
+			}			
+		]
+	}    
+]
